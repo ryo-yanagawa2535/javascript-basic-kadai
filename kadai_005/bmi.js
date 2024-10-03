@@ -1,3 +1,3 @@
-let BMI = 68/(1.7*1.7);
+let bMi = 68/(1.7*1.7);
 
-console.log(BMI)
+console.log(bMi)
