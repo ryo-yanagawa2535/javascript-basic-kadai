@@ -1,7 +1,7 @@
-let Weight = '体重';
+let weight = 68;
 
-let Height = '身長';
+let height = 1.7;
 
-let bMi = 68/(1.7*1.7);
+let bmi = weight / (height*height);
 
-console.log(bMi)
+console.log(bmi)
